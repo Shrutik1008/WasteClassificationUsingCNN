@@ -27,7 +27,6 @@ print("Path to dataset files:", path)
 - NumPy, Pandas
 - Matplotlib, Seaborn
 - Jupyter Notebook
-- Kaggle API
 
 ---
 
@@ -37,8 +36,6 @@ We use a CNN (Convolutional Neural Network) to classify waste images into catego
 
 - Organic
 - Recyclable
-- Hazardous
-- General Waste
 
 The model is trained on labeled images and evaluated using accuracy, loss, and confusion matrix.
 

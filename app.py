@@ -127,5 +127,4 @@ elif image_url:
 # Bottom Credits
 st.markdown("---")
 st.markdown("Note: The model is **not 100% accurate!**")
-st.markdown(" **Trainer Credits: RMS** ")
-st.markdown(" **Developed with ❤️ for AICTE Internship Cycle 3 from RMS**")
+st.markdown(" **Developed By Mr.Shrutik❤️ **")

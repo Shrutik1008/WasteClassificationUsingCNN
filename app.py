@@ -126,5 +126,5 @@ elif image_url:
 
 # Bottom Credits
 st.markdown("---")
-st.markdown("Note: The model is **not 100% accurate!**")
+st.markdown("Thank-You**")
 

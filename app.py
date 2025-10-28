@@ -126,5 +126,5 @@ elif image_url:
 
 # Bottom Credits
 st.markdown("---")
-st.markdown("Thank-You**")
+st.markdown("**Thank-You**")
 
